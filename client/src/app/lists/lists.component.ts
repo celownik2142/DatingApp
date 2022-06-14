@@ -32,5 +32,4 @@ export class ListsComponent implements OnInit {
     this.pageNumber = event.page;
     this.loadLikes();
   }
-
 }
